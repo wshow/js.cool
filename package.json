@@ -1,0 +1,21 @@
+{
+  "name": "js.cool",
+  "version": "1.0.0",
+  "description": "Awesome JS.COOL Sub Domains",
+  "scripts": {
+    "build": "gulp",
+    "dev": "browser-sync start --server"
+  },
+  "repository": "git@github.com:js-cool/js.cool.git",
+  "author": "willin <willin@willin.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "eslint": "^3.18.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-less": "^3.3.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "purecss": "^0.6.2"
+  }
+}
