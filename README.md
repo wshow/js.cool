@@ -1,2 +1,3 @@
 # js.cool
-Free JS.COOL Sub Domains
+
+Awesome JS.COOL Sub Domains
